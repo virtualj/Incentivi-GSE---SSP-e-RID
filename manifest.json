@@ -1,0 +1,9 @@
+{
+  "domain": "energy_proxy",
+  "name": "Energy Dashboard Proxy",
+  "documentation": "https://github.com/tuo-username/energy_proxy",
+  "dependencies": ["energy"],
+  "codeowners": ["@tuo-username"],
+  "version": "1.0.0",
+  "iot_class": "local_polling"
+}
