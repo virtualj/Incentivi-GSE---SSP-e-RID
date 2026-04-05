@@ -1,0 +1,8 @@
+{
+  "name": "Incentivi GSE - SSP e RID",
+  "content_type": "integration",
+  "domains": ["Incentivi-GSE---SSP-e-RID"],
+  "homeassistant": "2026.4.0",
+  "render_readme": true,
+  "zip_release": false
+}
