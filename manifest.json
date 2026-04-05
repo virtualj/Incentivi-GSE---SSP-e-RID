@@ -1,9 +1,0 @@
-{
-  "domain": "Incentivi-GSE---SSP-e-RID",
-  "name": "Incentivi GSE - SSP e RID",
-  "documentation": "https://github.com/virtualj/Incentivi-GSE---SSP-e-RID",
-  "dependencies": ["energy"],
-  "codeowners": ["@virtualj"],
-  "version": "1.0.0",
-  "iot_class": "local_polling"
-}
