@@ -1,9 +1,9 @@
 {
-  "domain": "energy_proxy",
-  "name": "Energy Dashboard Proxy",
-  "documentation": "https://github.com/tuo-username/energy_proxy",
+  "domain": "Incentivi-GSE---SSP-e-RID",
+  "name": "Incentivi GSE - SSP e RID",
+  "documentation": "https://github.com/virtualj/Incentivi-GSE---SSP-e-RID",
   "dependencies": ["energy"],
-  "codeowners": ["@tuo-username"],
+  "codeowners": ["@virtualj"],
   "version": "1.0.0",
   "iot_class": "local_polling"
 }
