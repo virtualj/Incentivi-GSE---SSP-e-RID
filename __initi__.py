@@ -4,12 +4,12 @@ from homeassistant.core import HomeAssistant
 
 _LOGGER = logging.getLogger(__name__)
 
-DOMAIN = "energy_proxy"
+DOMAIN = "Incentivi-GSE---SSP-e-RID"
 PLATFORMS = ["sensor"]
 
 async def async_setup_entry(hass: HomeAssistant, entry: ConfigEntry) -> bool:
     """Imposta l'integrazione tramite UI."""
-    _LOGGER.info("Inizializzazione Energy Dashboard Proxy")
+    _LOGGER.info("Inizializzazione Incentivi GSE - SSP e RID")
     
     # Inoltra la configurazione alla piattaforma sensor.py
     await hass.config_entries.async_forward_entry_setups(entry, PLATFORMS)
